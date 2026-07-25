@@ -1,32 +1,30 @@
-# Python-OOP-Questions
+# Python Basic to Intermediate
 
-These are the questions which i have practiced while learning OOP in python.
-Questions mainly focuses on the concepts of Object oriented programming using python.
-Questions contains concepts like:
+This repository contains Python questions and exercises practiced while learning Object-Oriented Programming (OOP) in Python.
+The questions focus on OOP concepts and Python basics, including:
 
+- Classes
+- Objects
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Getters and setters
+- `super()` function
 
-Classes, 
-Objects, 
-Inheretence, 
-polymorphism, 
-abstract, 
-encapsulation, 
-getter and setter,
-super() function,
+It also includes solved problems covering Python fundamentals and practical OOP usage, such as:
 
-This repo also contains the problems solved using python basics and OOP like:
-
-Finding prime factors,
-sort a string,
-Find all list items,
-Play the waiting game,
-Save a dictionary,
-Schedule a function,
-Send an Email,
-Simulate dice,
-Count unique words,
-Generate a password,
-Merge CSV files,
-Solve a sudoku,
-Build a zip archive,
-Download sequential files
+- Finding prime factors
+- Sorting a string
+- Finding all list items
+- Playing the waiting game
+- Saving a dictionary
+- Scheduling a function
+- Sending an email
+- Simulating dice
+- Counting unique words
+- Generating a password
+- Merging CSV files
+- Solving a sudoku
+- Building a zip archive
+- Downloading sequential files
