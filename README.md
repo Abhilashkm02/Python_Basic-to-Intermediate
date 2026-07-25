@@ -1,7 +1,7 @@
 # Python-OOP-Questions
 
-These are the questions which i have practiced while learning OOP in python
-questions mainly focuses on the concepts of Object oriented programming using python
+These are the questions which i have practiced while learning OOP in python.
+Questions mainly focuses on the concepts of Object oriented programming using python.
 Questions contains concepts like:
 Classes, 
 Objects, 
