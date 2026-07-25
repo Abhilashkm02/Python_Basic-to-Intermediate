@@ -78,3 +78,7 @@ acc1SBI.deposit(1000)
 acc1SBI.withdraw(200)
 acc1SBI.check_balance()
 acc1SBI.calculate_interest()
+
+'''Its not menu driven yet, but the basic structure of the banking system simulation is implemented. 
+The next step would be to create a menu-driven interface that allows users to interact with the banking system, 
+such as creating accounts, depositing, withdrawing, and checking balances.'''
